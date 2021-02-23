@@ -1,4 +1,4 @@
 # Pierwsze repozytorium
 
 Pierwszy przykład
-Pierwszy projekt
+Pierwszy projek
