@@ -1,3 +1,0 @@
-# Pierwsze repozytorium
-
-Pierwszy przykład
